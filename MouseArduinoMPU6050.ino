@@ -1,7 +1,7 @@
 /*
 
 	Autor: Fábio Felix
-	https://github.com/fabix83
+	https://github.com/fabix83/MouseArduinoMPU6050
 
 	Mouse Virtual construido com a comunicação de Arduino Pro Micro 
 	e MPU6050
